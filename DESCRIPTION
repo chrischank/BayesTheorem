@@ -1,13 +1,14 @@
 Package: BayesTheorem
-Title: What the Package Does (One Line, Title Case)
+Title: Calculate various forms of Bayes Theorem
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Chris",
+           family = "Chan",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
+           email = "christopherchank@gmail.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: What license it uses
+Description: Contains functions for different forms of the Bayesian Theorem.
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 7.0.2
